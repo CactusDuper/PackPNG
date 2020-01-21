@@ -1,0 +1,100 @@
+
+#wb_header { background-color: transparent; }
+#wb_header:before { background: transparent none repeat scroll left top; }
+#wb_main { background-color: transparent; padding-bottom: 50px; }
+#wb_main:before { background: transparent none repeat left top; background-size: auto auto; opacity: 1; }
+#wb_footer { background-color: transparent; }
+#wb_footer:before { background: transparent none repeat left top; background-size: auto auto; opacity: 1; }
+html { scroll-behavior: smooth; }
+body { background-color: transparent; }
+body.site:before { background: transparent url("../gallery_gen/cbfd75f4340701bb3b15704117f05a52.jpg") no-repeat scroll center top; background-size: cover; opacity: 1; }
+.wb_sbg { background: transparent none repeat-x left top; }
+body, .wb_sbg { min-width: 100%; min-height: 100%; }
+.root { box-sizing: border-box; width: 100%; }
+.root > div > .wb_cont_inner_rel { padding-left: 15px; padding-right: 15px; }
+#wb_cs_row_14 { padding-left: 0; padding-right: 0; padding-top: 0px; margin-top: 0px; float: left; padding-bottom: 0px; }
+#wb_cs_col_15 { width: 100%; margin-left: auto; margin-right: auto; margin-top: 0px; padding-left: 0px; padding-right: 0px; }
+#wb_cs_col_15:first-child { margin-top: 0px; }
+#wb_element_instance7 { z-index: 296; height: 48px; min-height: 48px; width: 100%; margin-left: auto; margin-right: auto; margin-top: 0px; }
+#wb_element_instance7 .btn-collapser { display: inline-block; margin-top: 9.5px; background-color: #bcbcbc; border-color: #000000; }
+#wb_element_instance7.collapse-expanded > ul { position: fixed; left: 0px; width: 100%; display: block; float: none; height: auto; overflow: hidden; overflow-y: auto; }
+#wb_element_instance7 .btn-collapser > .icon-bar { background-color: #000000; }
+#wb_element_instance7 .btn-collapser:hover { background-color: #bcbcbc; border-color: #333333; }
+#wb_element_instance7 .btn-collapser:hover > .icon-bar { background-color: #333333; }
+#wb_element_instance7 ul { background: #bcbcbc none repeat left top; border: 0px none #000000; }
+#wb_element_instance7 > ul { display: none; }
+#wb_element_instance7.collapse-expanded > ul > li { display: block; }
+#wb_element_instance7.collapse-expanded li > ul { position: static; }
+#wb_element_instance7.collapse-expanded li.active > ul { display: block!important; }
+#wb_element_instance7.collapse-expanded li.over > ul { display: block!important; }
+#wb_element_instance7, #wb_element_instance7 ul { text-align: left; }
+#wb_element_instance7 ul ul { background: #2e2e2e none repeat left top; }
+#wb_element_instance7 li { margin: 10px 10px 10px 10px; }
+#wb_element_instance7 li a { text-transform: none; border: 0px none #000000; padding: 2px 2px 2px 2px; font: normal normal 22px Arial,Helvetica,sans-serif; text-decoration: none; color: #000000; line-height: 24px; background: transparent none repeat left top; }
+#wb_element_instance7 li.over > a, #wb_element_instance7 li:focus > a { border: 0px none #000000; font: normal normal 22px Arial,Helvetica,sans-serif; text-decoration: none; color: #333333; line-height: 24px; background: transparent none repeat left top; }
+#wb_element_instance7 li.active > a { border: 0px none #000000; font: normal normal 22px Arial,Helvetica,sans-serif; text-decoration: none; color: #ffffff; line-height: 24px; background: transparent none repeat left top; }
+#wb_element_instance7:not(.collapse-expanded) .vmenu ul.open-left,#wb_element_instance7:not(.collapse-expanded) .hmenu ul.open-left { left: auto; right: 100%; }
+#wb_element_instance7:not(.collapse-expanded) .hmenu > li > ul.open-left { left: auto; right: 0; }
+#wb_cs_row_16 { padding-left: 0; padding-right: 0; padding-top: 0px; margin-top: -48px; float: left; padding-bottom: 0px; }
+#wb_cs_row_17 { padding-left: 0; padding-right: 0; padding-top: 12px; padding-bottom: 0px; }
+#wb_cs_col_18 { width: 100%; margin-left: auto; margin-right: auto; margin-top: 15px; padding-left: 0px; padding-right: 0px; }
+#wb_cs_col_18:first-child { margin-top: 0; }
+#wb_element_instance8 { z-index: 63; opacity: 1; min-height: 24px; width: 100%; margin-left: auto; margin-right: auto; margin-top: 0px; }
+#wb_element_instance8 p:last-child { margin-bottom: 0; }
+#wb_cs_row_19 { padding-left: 0; padding-right: 0; padding-top: 15px; padding-bottom: 0px; }
+#wb_cs_col_20 { width: 100%; margin-left: auto; margin-right: auto; margin-top: 15px; padding-left: 0px; padding-right: 0px; }
+#wb_cs_col_20:first-child { margin-top: 0; }
+#wb_element_instance10 { z-index: 67; opacity: 1; min-height: 24px; width: 100%; margin-left: auto; margin-right: auto; margin-top: 0px; }
+#wb_element_instance10 p:last-child { margin-bottom: 0; }
+#wb_cs_row_21 { padding-left: 0; padding-right: 0; padding-top: 15px; padding-bottom: 0px; }
+#wb_cs_col_22 { width: 100%; margin-left: auto; margin-right: auto; margin-top: 15px; padding-left: 0px; padding-right: 0px; }
+#wb_cs_col_22:first-child { margin-top: 0; }
+#wb_element_instance11 { z-index: 68; opacity: 1; min-height: 24px; width: 100%; margin-left: auto; margin-right: auto; margin-top: 0px; }
+#wb_element_instance11 p:last-child { margin-bottom: 0; }
+#wb_element_instance12 { z-index: 9999; }
+
+
+@media (min-width: 768px) {
+	.root > div > .wb_cont_inner_rel { padding-left: 20px; padding-right: 20px; }
+	#wb_cs_row_14 { padding-left: 0%; padding-right: -36.941671045717%; }
+	#wb_cs_col_15 { max-width: 3806px; }
+	#wb_element_instance7 { margin-top: 0px; }
+	#wb_element_instance7 ul { background: transparent none repeat left top; }
+	#wb_element_instance7 .btn-collapser { display: none; }
+	#wb_element_instance7 > ul { display: block; }
+	#wb_cs_row_16 { padding-left: 0%; padding-right: 0%; }
+	#wb_cs_row_17 { padding-top: 12px; padding-left: 0%; padding-right: 0%; }
+	#wb_cs_col_18 { max-width: 2400px; margin-top: 0px; }
+	#wb_cs_col_18:first-child { margin-top: 0px; }
+	#wb_element_instance8 { margin-top: 0px; }
+	#wb_cs_row_19 { padding-top: 30px; padding-left: 0%; padding-right: 0%; }
+	#wb_cs_col_20 { max-width: 2400px; margin-top: 0px; }
+	#wb_cs_col_20:first-child { margin-top: 0px; }
+	#wb_element_instance10 { margin-top: 0px; }
+	#wb_cs_row_21 { padding-top: 28px; padding-left: 12.874408828166%; padding-right: 12.874408828166%; }
+	#wb_cs_col_22 { max-width: 1420px; margin-top: 0px; }
+	#wb_cs_col_22:first-child { margin-top: 0px; }
+	#wb_element_instance11 { margin-top: 0px; }
+	#wb_footer { min-height: 81px; }
+}
+
+@media (min-width: 992px) {
+	.root > div > .wb_cont_inner_rel { padding-left: 30px; padding-right: 30px; }
+	#wb_element_instance7 ul { background: transparent none repeat left top; }
+	#wb_element_instance7 .btn-collapser { display: none; }
+	#wb_element_instance7 > ul { display: block; }
+}
+
+@media (min-width: 1200px) {
+	.root > div > .wb_cont_inner_rel { max-width: 1860px; padding-left: 40px; padding-right: 40px; }
+	#wb_element_instance7 ul { background: transparent none repeat left top; }
+	#wb_element_instance7 .btn-collapser { display: none; }
+	#wb_element_instance7 > ul { display: block; }
+	#wb_element_instance12 { top: 20px; left: 0px; display: block; }
+}
+
+@media (max-width: 767px) {
+	#wb_element_instance8 { width: auto; margin-left: 10px; margin-right: 10px; }
+	#wb_element_instance10 { width: auto; margin-left: 10px; margin-right: 10px; }
+	#wb_element_instance11 { width: auto; margin-left: 10px; margin-right: 10px; }
+}
